@@ -1,0 +1,5 @@
+video_path: "data/virat_dataset/virat_school_03.avi"
+line: [[692, 643], [1549, 908]]
+min_conf: 0.55
+fps: null
+notes: "VIRAT school entrance — bidirectional flow"

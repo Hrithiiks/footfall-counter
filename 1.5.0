@@ -1,0 +1,15 @@
+Collecting numpy==2.2.6
+  Using cached numpy-2.2.6-cp310-cp310-win_amd64.whl.metadata (60 kB)
+Collecting scipy==1.15.3
+  Using cached scipy-1.15.3-cp310-cp310-win_amd64.whl.metadata (60 kB)
+Collecting scikit-learn
+  Downloading scikit_learn-1.7.2-cp310-cp310-win_amd64.whl.metadata (11 kB)
+Requirement already satisfied: joblib>=1.2.0 in c:\users\hrithik s\appdata\roaming\python\python310\site-packages (from scikit-learn) (1.5.1)
+Requirement already satisfied: threadpoolctl>=3.1.0 in c:\users\hrithik s\appdata\roaming\python\python310\site-packages (from scikit-learn) (3.6.0)
+Using cached numpy-2.2.6-cp310-cp310-win_amd64.whl (12.9 MB)
+Using cached scipy-1.15.3-cp310-cp310-win_amd64.whl (41.3 MB)
+Downloading scikit_learn-1.7.2-cp310-cp310-win_amd64.whl (8.9 MB)
+   ---------------------------------------- 8.9/8.9 MB 5.4 MB/s  0:00:01
+Installing collected packages: numpy, scipy, scikit-learn
+
+Successfully installed numpy-2.2.6 scikit-learn-1.7.2 scipy-1.15.3

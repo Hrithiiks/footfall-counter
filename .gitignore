@@ -1,0 +1,21 @@
+# Ignore virtual environments and heavy data
+footfall-counter/
+.env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore datasets and video outputs
+data/
+outputs/
+*.avi
+*.mp4
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
