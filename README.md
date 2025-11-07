@@ -77,11 +77,13 @@ Annotated video → outputs/videos/
 
 CSV summary → outputs/counters/
 
+
 ## 🖼️ Results
 
-| People Detection                          | Entry/Exit Counting                       |
-| ----------------------------------------- | ----------------------------------------- |
-| ![frame1](outputs/screenshots/frame1.png) | ![frame2](outputs/screenshots/frame2.png) |
+| People Detection | Entry/Exit Counting |
+|------------------|--------------------|
+| <img width="600" alt="frame1" src="https://github.com/user-attachments/assets/09a09d34-bca3-4b90-a55e-5b3cbb0bd159" /> | <img width="600" alt="frame2" src="https://github.com/user-attachments/assets/f1327d36-8e35-4737-8614-d10f2f837a6f" /> |
+
 
 ## 🧠 Future Improvements
 
